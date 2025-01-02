@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I’m Ben. 👋
 
-<!--
-**ben-capriata/ben-capriata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student: Pursuing Data Science & Artificial Intelligence.
+🤖 Passion: Turning data into insights, and ideas into code.
+📊 Focus: Machine learning, neural networks, and data visualization.
 
-Here are some ideas to get you started:
+What You’ll Find Here
+	•	🛠️ Projects: ML models, data analysis, and AI experiments.
+	•	📚 Notes: Concepts I’m learning, simplified for clarity.
+	•	🧪 Experiments: My attempts at making AI smarter (or just functional).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Tools
+	•	Languages: Python, R, SQL
+	•	Libraries: TensorFlow, PyTorch, Pandas, Matplotlib
+	•	Tech: Jupyter Notebooks, Git
+
+🎯 Goal: Build projects that solve real problems and push the boundaries of what I know.
+
+Thanks for visiting! 😊
